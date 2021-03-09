@@ -5,3 +5,6 @@ out
 dist
 __pycache__
 notebooks/__pycache__
+
+linear-regression/__pycache__
+linear-regression/.ipynb_checkpoints
